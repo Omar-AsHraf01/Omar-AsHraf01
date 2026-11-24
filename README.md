@@ -1,6 +1,6 @@
 # Hi, I'm Omar Ashraf
 
-WordPress & WooCommerce site builder (Elementor) from Mansoura, Egypt, with SEO skills - keyword research, on-page, and technical audits. Also a 2nd-year veterinary student at Mansoura University, so vet clinics, pharmacies and animal businesses are my home turf.
+WordPress developer from Egypt. I build fast, clean WordPress and WooCommerce websites with Elementor, from design and structure to on-page SEO and performance, so the site looks good and ranks well.
 
 ## 🌐 Live Websites
 
